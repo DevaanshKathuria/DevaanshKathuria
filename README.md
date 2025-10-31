@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=DEVAANSH+KATHURIA;Exploring+the+World+of+Code+💻;Building+Projects+that+Matter" alt="Neon Typing" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/DevaanshKathuria/DevaanshKathuria/blob/main/my-github-ai-image.png" width="200" />
-</p>
-
 ---
 
 <p align="center">
@@ -25,6 +21,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaansh-kathuria-0b1848329/)
+
 
 ---
 
