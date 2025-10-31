@@ -1,16 +1,43 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/DevaanshKathuria/DevaanshKathuria/blob/main/animated-github.gif" width="200" />
+</p>
 
-<!--
-**DevaanshKathuria/DevaanshKathuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=DEVAANSH+KATHURIA;Exploring+the+World+of+Code+💻;Building+Projects+that+Matter" alt="Neon Typing" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/DevaanshKathuria/DevaanshKathuria/blob/main/my-github-ai-image.png" width="200" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://github.com/DevaanshKathuria/DevaanshKathuria/blob/main/animated-github2.gif" width="200" />
+</p>
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevaanshKathuria&theme=rose&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaansh-kathuria-0b1848329/)
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevaanshKathuria&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaanshKathuria&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevaanshKathuria&theme=github-dark" alt="GitHub Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DevaanshKathuria&theme=holi&no-frame=false&no-bg=false&margin-w=4)
+
+---
