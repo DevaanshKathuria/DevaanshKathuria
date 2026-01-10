@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=DEVAANSH+KATHURIA;Exploring+the+World+of+Code+💻;Building+Projects+that+Matter" alt="Neon Typing"/>
-</p>
+</p> 
 
 <div align="center">
   <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1xMmd4aGRxdmFhZHV3YzltenBtazVsc3Fsb2pobWxlcXppZnc1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/mcsPU3SkKrYDdW3aAU/giphy.gif"/>
