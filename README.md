@@ -14,7 +14,7 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevaanshKathuria&theme=rose&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DevaanshKathuria)](https://git.io/streak-stats)
 
 ---
 
