@@ -34,7 +34,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevaanshKathuria&theme=holi&no-frame=false&no-bg=false&margin-w=4)
+[![An image of @devaanshkathuria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaanshkathuria)](https://holopin.io/@devaanshkathuria)
 
 ---
