@@ -13,8 +13,9 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,blender,nodejs,python,git,github,mysql,vscode" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,blender,git,github,docker,aws,linux,mysql,mongodb,tailwind,vscode" alt="Skills"/>
 </p>
+
 
 ---
 
@@ -41,6 +42,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaanshkathuria&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
+---
+ <div style="display: flex; justify-content: space-between;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devaanshkathuria&theme=aura" width="45%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devaanshkathuria&theme=aura" alt="Most Commit Language" width="45%" />
+</div>
 ---
 
 [![An image of @devaanshkathuria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaanshkathuria)](https://holopin.io/@devaanshkathuria)
