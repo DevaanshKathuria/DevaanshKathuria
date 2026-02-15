@@ -13,7 +13,7 @@
 
 ### Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,mysql,vscode" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,blender,nodejs,python,git,github,mysql,vscode" alt="Skills"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 ## GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
+  <img src="https://streak-stats.demolab.com?user=devaanshkathuria&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaanshkathuria&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
