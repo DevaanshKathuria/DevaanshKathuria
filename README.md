@@ -8,12 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/DevaanshKathuria/DevaanshKathuria/blob/main/animated-github2.gif" width="200" />
-</p>
-
----
-
 ### Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,mysql,vscode" alt="Skills"/>
