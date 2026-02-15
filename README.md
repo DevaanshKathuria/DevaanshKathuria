@@ -14,22 +14,34 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DevaanshKathuria)](https://git.io/streak-stats)
+### Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,mysql,vscode" alt="Skills"/>
+</p>
 
 ---
 
-## 🌐 Socials:
+## Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaansh-kathuria-0b1848329/)
+<p align="center">
+  <a href="https://github.com/DevaanshKathuria" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/devaansh-kathuria-0b1848329/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/devaanshkathuria/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevaanshKathuria&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevaanshKathuria&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevaanshKathuria&theme=github-dark" alt="GitHub Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=Rahulgupta7777&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaanshkathuria&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
