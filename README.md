@@ -20,7 +20,6 @@
 ---
 
 ## Socials:
-
 <p align="center">
   <a href="https://github.com/DevaanshKathuria" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -43,6 +42,7 @@
 </div>
 
 ---
+
  <div style="display: flex; justify-content: space-between;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devaanshkathuria&theme=aura" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devaanshkathuria&theme=aura" alt="Most Commit Language" width="45%" />
