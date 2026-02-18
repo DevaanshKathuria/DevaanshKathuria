@@ -16,7 +16,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,express,python,blender,git,github,docker,aws,linux,mysql,mongodb,tailwind,vscode" alt="Skills"/>
 </p>
 
-
 ---
 
 ## Socials:
@@ -32,7 +31,6 @@
   </a>
 </p>
 
-
 ---
 
 ## GitHub Stats:
@@ -47,6 +45,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devaanshkathuria&theme=aura" width="45%" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devaanshkathuria&theme=aura" alt="Most Commit Language" width="45%" />
 </div>
+
 ---
 
 [![An image of @devaanshkathuria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devaanshkathuria)](https://holopin.io/@devaanshkathuria)
