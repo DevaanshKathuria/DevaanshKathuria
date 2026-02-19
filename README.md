@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=DEVAANSH+KATHURIA;Exploring+the+World+of+Code+💻;Building+Projects+that+Matter" alt="Neon Typing" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devaanshkathuria&label=Profile+Views&color=2F81F7&style=flat" alt="Profile views" />
 </p>
