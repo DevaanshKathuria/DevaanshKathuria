@@ -19,10 +19,13 @@
 
 ---
 
-## Socials:
+## Socials
 <p align="center">
-  <a href="https://github.com/DevaanshKathuria" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://codeforces.com/profile/GAMMA_Demon" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/GAMMA_Demon/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://linkedin.com/in/devaansh-kathuria-0b1848329/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -30,11 +33,14 @@
   <a href="https://www.instagram.com/devaanshkathuria/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  <a href="mailto:devaanshkathuria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## GitHub Stats:
+## GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devaanshkathuria&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devaanshkathuria&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&hide_border=true" alt="Activity Graph"/>
