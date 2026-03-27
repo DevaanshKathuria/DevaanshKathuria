@@ -40,6 +40,14 @@
 
 ---
 
+<div align="center">
+  <a href="https://leetcode.com/u/GAMMA_Demon/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode profile" height="200" width="200" />
+  </a>
+</div>
+
+---
+
 ## GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devaanshkathuria&theme=github-dark-blue&hide_border=true" height="220" alt="Streak Graph"/>
